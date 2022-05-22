@@ -6,6 +6,6 @@ ebanx = new ebanxMod();
 
 //Configure the integration key and test mode
 ebanx.configure({
-  integrationKey : '1231000',
+  integrationKey : 'your-integration-key',
   testMode : true
 });
