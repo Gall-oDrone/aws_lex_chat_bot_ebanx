@@ -1,1 +1,1 @@
-# aws_lex_chat_bot_ebanx
+# Serverless Facebook chat bot using AWS Lex and Lambda
